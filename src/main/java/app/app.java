@@ -12,7 +12,7 @@ public class app {
     public static void main(String[] args) { //throws MqttException {//String[] args
         //String subTopic = "v1/devices/me/attribute";
         String pubTopic = "v1/devices/me/telemetry";
-        String content = "{'deneme' : '123454sd'}";
+        String content = "{'deneme' : '123454sd2'}";
 
         /*String subTopic = "v2/deneme/sub";
         String pubTopic = "v2/deneme/pub";
